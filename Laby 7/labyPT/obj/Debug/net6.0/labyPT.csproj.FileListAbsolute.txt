@@ -1,0 +1,15 @@
+C:\Users\micha\source\repos\labyPT\labyPT\bin\Debug\net6.0\labyPT.exe
+C:\Users\micha\source\repos\labyPT\labyPT\bin\Debug\net6.0\labyPT.deps.json
+C:\Users\micha\source\repos\labyPT\labyPT\bin\Debug\net6.0\labyPT.runtimeconfig.json
+C:\Users\micha\source\repos\labyPT\labyPT\bin\Debug\net6.0\labyPT.dll
+C:\Users\micha\source\repos\labyPT\labyPT\bin\Debug\net6.0\labyPT.pdb
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\labyPT.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\labyPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\labyPT.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\labyPT.AssemblyInfo.cs
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\labyPT.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\labyPT.dll
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\refint\labyPT.dll
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\labyPT.pdb
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\labyPT.genruntimeconfig.cache
+C:\Users\micha\source\repos\labyPT\labyPT\obj\Debug\net6.0\ref\labyPT.dll
